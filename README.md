@@ -1,1 +1,1 @@
-# Tetrisrun.github.io
+# 🎮 TetriRun TetriRun es un juego arcade inspirado en Tetris y endless runners. Tu misión: esquivar bloques cayendo mientras controlas el logo de TetriRun. ¡Pon a prueba tus reflejos y alcanza la mayor puntuación posible!
